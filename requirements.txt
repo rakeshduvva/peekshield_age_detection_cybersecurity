@@ -1,0 +1,5 @@
+mitmproxy
+flask
+requests
+pyTelegramBotAPI
+cryptography
